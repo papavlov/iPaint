@@ -1,0 +1,12 @@
+C:\Users\PM999\Desktop\iPaint\Retarded Paint.Shapes\bin\Debug\iPaint.Shapes.dll
+C:\Users\PM999\Desktop\iPaint\Retarded Paint.Shapes\bin\Debug\iPaint.Shapes.pdb
+C:\Users\PM999\Desktop\iPaint\Retarded Paint.Shapes\obj\Debug\iPaint.Shapes.csproj.AssemblyReference.cache
+C:\Users\PM999\Desktop\iPaint\Retarded Paint.Shapes\obj\Debug\iPaint.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\PM999\Desktop\iPaint\Retarded Paint.Shapes\obj\Debug\iPaint.Shapes.dll
+C:\Users\PM999\Desktop\iPaint\Retarded Paint.Shapes\obj\Debug\iPaint.Shapes.pdb
+C:\Users\PM999\Desktop\iPaint\iPaint.Shapes\bin\Debug\iPaint.Shapes.dll
+C:\Users\PM999\Desktop\iPaint\iPaint.Shapes\bin\Debug\iPaint.Shapes.pdb
+C:\Users\PM999\Desktop\iPaint\iPaint.Shapes\obj\Debug\iPaint.Shapes.csproj.AssemblyReference.cache
+C:\Users\PM999\Desktop\iPaint\iPaint.Shapes\obj\Debug\iPaint.Shapes.csproj.CoreCompileInputs.cache
+C:\Users\PM999\Desktop\iPaint\iPaint.Shapes\obj\Debug\iPaint.Shapes.dll
+C:\Users\PM999\Desktop\iPaint\iPaint.Shapes\obj\Debug\iPaint.Shapes.pdb

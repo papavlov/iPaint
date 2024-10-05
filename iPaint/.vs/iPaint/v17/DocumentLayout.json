@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PM999\\Desktop\\iPaint\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E42E9623-27F7-4554-A276-F80CE079A690}|iPaint.Shapes\\iPaint.Shapes.csproj|c:\\users\\pm999\\desktop\\ipaint\\ipaint.shapes\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42E9623-27F7-4554-A276-F80CE079A690}|iPaint.Shapes\\iPaint.Shapes.csproj|solutionrelative:ipaint.shapes\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F04874-64F3-450A-B16D-2FD49E6087E8}|iPaint\\iPaint.csproj|c:\\users\\pm999\\desktop\\ipaint\\ipaint\\drawingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F04874-64F3-450A-B16D-2FD49E6087E8}|iPaint\\iPaint.csproj|solutionrelative:ipaint\\drawingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42E9623-27F7-4554-A276-F80CE079A690}|iPaint.Shapes\\iPaint.Shapes.csproj|c:\\users\\pm999\\desktop\\ipaint\\ipaint.shapes\\models\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42E9623-27F7-4554-A276-F80CE079A690}|iPaint.Shapes\\iPaint.Shapes.csproj|solutionrelative:ipaint.shapes\\models\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F04874-64F3-450A-B16D-2FD49E6087E8}|iPaint\\iPaint.csproj|c:\\users\\pm999\\desktop\\ipaint\\ipaint\\shapesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F04874-64F3-450A-B16D-2FD49E6087E8}|iPaint\\iPaint.csproj|solutionrelative:ipaint\\shapesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE4438A-FF09-4024-88CF-E245190C7607}|iPaint.Strategies\\iPaint.Strategies.csproj|c:\\users\\pm999\\desktop\\ipaint\\ipaint.strategies\\drawingstategies\\circledrawingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE4438A-FF09-4024-88CF-E245190C7607}|iPaint.Strategies\\iPaint.Strategies.csproj|solutionrelative:ipaint.strategies\\drawingstategies\\circledrawingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F04874-64F3-450A-B16D-2FD49E6087E8}|iPaint\\iPaint.csproj|c:\\users\\pm999\\desktop\\ipaint\\ipaint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F04874-64F3-450A-B16D-2FD49E6087E8}|iPaint\\iPaint.csproj|solutionrelative:ipaint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE4438A-FF09-4024-88CF-E245190C7607}|iPaint.Strategies\\iPaint.Strategies.csproj|c:\\users\\pm999\\desktop\\ipaint\\ipaint.strategies\\drawingstategies\\triangledrawingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE4438A-FF09-4024-88CF-E245190C7607}|iPaint.Strategies\\iPaint.Strategies.csproj|solutionrelative:ipaint.strategies\\drawingstategies\\triangledrawingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42E9623-27F7-4554-A276-F80CE079A690}|iPaint.Shapes\\iPaint.Shapes.csproj|c:\\users\\pm999\\desktop\\ipaint\\ipaint.shapes\\models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42E9623-27F7-4554-A276-F80CE079A690}|iPaint.Shapes\\iPaint.Shapes.csproj|solutionrelative:ipaint.shapes\\models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42E9623-27F7-4554-A276-F80CE079A690}|iPaint.Shapes\\iPaint.Shapes.csproj|c:\\users\\pm999\\desktop\\ipaint\\ipaint.shapes\\models\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42E9623-27F7-4554-A276-F80CE079A690}|iPaint.Shapes\\iPaint.Shapes.csproj|solutionrelative:ipaint.shapes\\models\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42E9623-27F7-4554-A276-F80CE079A690}|iPaint.Shapes\\iPaint.Shapes.csproj|c:\\users\\pm999\\desktop\\ipaint\\ipaint.shapes\\models\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42E9623-27F7-4554-A276-F80CE079A690}|iPaint.Shapes\\iPaint.Shapes.csproj|solutionrelative:ipaint.shapes\\models\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE4438A-FF09-4024-88CF-E245190C7607}|iPaint.Strategies\\iPaint.Strategies.csproj|c:\\users\\pm999\\desktop\\ipaint\\ipaint.strategies\\drawingstategies\\rectangledrawingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE4438A-FF09-4024-88CF-E245190C7607}|iPaint.Strategies\\iPaint.Strategies.csproj|solutionrelative:ipaint.strategies\\drawingstategies\\rectangledrawingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE4438A-FF09-4024-88CF-E245190C7607}|iPaint.Strategies\\iPaint.Strategies.csproj|c:\\users\\pm999\\desktop\\ipaint\\ipaint.strategies\\drawingstategies\\ishapedrawingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE4438A-FF09-4024-88CF-E245190C7607}|iPaint.Strategies\\iPaint.Strategies.csproj|solutionrelative:ipaint.strategies\\drawingstategies\\ishapedrawingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DrawingForm.cs",
+              "DocumentMoniker": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint\\DrawingForm.cs",
+              "RelativeDocumentMoniker": "iPaint\\DrawingForm.cs",
+              "ToolTip": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint\\DrawingForm.cs",
+              "RelativeToolTip": "iPaint\\DrawingForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:53:19.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TriangleDrawingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint.Strategies\\DrawingStategies\\TriangleDrawingStrategy.cs",
+              "RelativeDocumentMoniker": "iPaint.Strategies\\DrawingStategies\\TriangleDrawingStrategy.cs",
+              "ToolTip": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint.Strategies\\DrawingStategies\\TriangleDrawingStrategy.cs",
+              "RelativeToolTip": "iPaint.Strategies\\DrawingStategies\\TriangleDrawingStrategy.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:51:20.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint.Shapes\\Models\\Shape.cs",
+              "RelativeDocumentMoniker": "iPaint.Shapes\\Models\\Shape.cs",
+              "ToolTip": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint.Shapes\\Models\\Shape.cs",
+              "RelativeToolTip": "iPaint.Shapes\\Models\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T11:49:49.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint.Shapes\\Models\\Rectangle.cs",
+              "RelativeDocumentMoniker": "iPaint.Shapes\\Models\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint.Shapes\\Models\\Rectangle.cs",
+              "RelativeToolTip": "iPaint.Shapes\\Models\\Rectangle.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCMAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:00:27.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShapesManager.cs",
+              "DocumentMoniker": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint\\ShapesManager.cs",
+              "RelativeDocumentMoniker": "iPaint\\ShapesManager.cs",
+              "ToolTip": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint\\ShapesManager.cs",
+              "RelativeToolTip": "iPaint\\ShapesManager.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:42:55.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IShapeDrawingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint.Strategies\\DrawingStategies\\IShapeDrawingStrategy.cs",
+              "RelativeDocumentMoniker": "iPaint.Strategies\\DrawingStategies\\IShapeDrawingStrategy.cs",
+              "ToolTip": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint.Strategies\\DrawingStategies\\IShapeDrawingStrategy.cs",
+              "RelativeToolTip": "iPaint.Strategies\\DrawingStategies\\IShapeDrawingStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:00:46.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CircleDrawingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint.Strategies\\DrawingStategies\\CircleDrawingStrategy.cs",
+              "RelativeDocumentMoniker": "iPaint.Strategies\\DrawingStategies\\CircleDrawingStrategy.cs",
+              "ToolTip": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint.Strategies\\DrawingStategies\\CircleDrawingStrategy.cs",
+              "RelativeToolTip": "iPaint.Strategies\\DrawingStategies\\CircleDrawingStrategy.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:00:40.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint.Shapes\\Models\\Triangle.cs",
+              "RelativeDocumentMoniker": "iPaint.Shapes\\Models\\Triangle.cs",
+              "ToolTip": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint.Shapes\\Models\\Triangle.cs",
+              "RelativeToolTip": "iPaint.Shapes\\Models\\Triangle.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:00:30.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint.Shapes\\Models\\Circle.cs",
+              "RelativeDocumentMoniker": "iPaint.Shapes\\Models\\Circle.cs",
+              "ToolTip": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint.Shapes\\Models\\Circle.cs",
+              "RelativeToolTip": "iPaint.Shapes\\Models\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:00:21.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint.Shapes\\Models\\IShape.cs",
+              "RelativeDocumentMoniker": "iPaint.Shapes\\Models\\IShape.cs",
+              "ToolTip": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint.Shapes\\Models\\IShape.cs",
+              "RelativeToolTip": "iPaint.Shapes\\Models\\IShape.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:00:16.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint\\Program.cs",
+              "RelativeDocumentMoniker": "iPaint\\Program.cs",
+              "ToolTip": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint\\Program.cs",
+              "RelativeToolTip": "iPaint\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:37:30.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RectangleDrawingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint.Strategies\\DrawingStategies\\RectangleDrawingStrategy.cs",
+              "RelativeDocumentMoniker": "iPaint.Strategies\\DrawingStategies\\RectangleDrawingStrategy.cs",
+              "ToolTip": "C:\\Users\\PM999\\Desktop\\iPaint\\iPaint.Strategies\\DrawingStategies\\RectangleDrawingStrategy.cs",
+              "RelativeToolTip": "iPaint.Strategies\\DrawingStategies\\RectangleDrawingStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T09:00:48.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

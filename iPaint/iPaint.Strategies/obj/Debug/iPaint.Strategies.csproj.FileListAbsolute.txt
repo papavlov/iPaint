@@ -1,0 +1,18 @@
+C:\Users\PM999\Desktop\iPaint\Retarded Paint.Strategies\bin\Debug\iPaint.Strategies.dll
+C:\Users\PM999\Desktop\iPaint\Retarded Paint.Strategies\bin\Debug\iPaint.Strategies.pdb
+C:\Users\PM999\Desktop\iPaint\Retarded Paint.Strategies\bin\Debug\iPaint.Shapes.dll
+C:\Users\PM999\Desktop\iPaint\Retarded Paint.Strategies\bin\Debug\iPaint.Shapes.pdb
+C:\Users\PM999\Desktop\iPaint\Retarded Paint.Strategies\obj\Debug\iPaint.Strategies.csproj.AssemblyReference.cache
+C:\Users\PM999\Desktop\iPaint\Retarded Paint.Strategies\obj\Debug\iPaint.Strategies.csproj.CoreCompileInputs.cache
+C:\Users\PM999\Desktop\iPaint\Retarded Paint.Strategies\obj\Debug\iPaint.S.5B1DBD6B.Up2Date
+C:\Users\PM999\Desktop\iPaint\Retarded Paint.Strategies\obj\Debug\iPaint.Strategies.dll
+C:\Users\PM999\Desktop\iPaint\Retarded Paint.Strategies\obj\Debug\iPaint.Strategies.pdb
+C:\Users\PM999\Desktop\iPaint\iPaint.Strategies\bin\Debug\iPaint.Strategies.dll
+C:\Users\PM999\Desktop\iPaint\iPaint.Strategies\bin\Debug\iPaint.Strategies.pdb
+C:\Users\PM999\Desktop\iPaint\iPaint.Strategies\bin\Debug\iPaint.Shapes.dll
+C:\Users\PM999\Desktop\iPaint\iPaint.Strategies\bin\Debug\iPaint.Shapes.pdb
+C:\Users\PM999\Desktop\iPaint\iPaint.Strategies\obj\Debug\iPaint.Strategies.csproj.AssemblyReference.cache
+C:\Users\PM999\Desktop\iPaint\iPaint.Strategies\obj\Debug\iPaint.Strategies.csproj.CoreCompileInputs.cache
+C:\Users\PM999\Desktop\iPaint\iPaint.Strategies\obj\Debug\iPaint.S.5B1DBD6B.Up2Date
+C:\Users\PM999\Desktop\iPaint\iPaint.Strategies\obj\Debug\iPaint.Strategies.dll
+C:\Users\PM999\Desktop\iPaint\iPaint.Strategies\obj\Debug\iPaint.Strategies.pdb

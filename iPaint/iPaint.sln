@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iPaint", "iPaint\iPaint.csproj", "{E3F04874-64F3-450A-B16D-2FD49E6087E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iPaint.Strategies", "iPaint.Strategies\iPaint.Strategies.csproj", "{4FE4438A-FF09-4024-88CF-E245190C7607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iPaint.Shapes", "iPaint.Shapes\iPaint.Shapes.csproj", "{E42E9623-27F7-4554-A276-F80CE079A690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3F04874-64F3-450A-B16D-2FD49E6087E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3F04874-64F3-450A-B16D-2FD49E6087E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3F04874-64F3-450A-B16D-2FD49E6087E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3F04874-64F3-450A-B16D-2FD49E6087E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE4438A-FF09-4024-88CF-E245190C7607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE4438A-FF09-4024-88CF-E245190C7607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE4438A-FF09-4024-88CF-E245190C7607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE4438A-FF09-4024-88CF-E245190C7607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E42E9623-27F7-4554-A276-F80CE079A690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42E9623-27F7-4554-A276-F80CE079A690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42E9623-27F7-4554-A276-F80CE079A690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42E9623-27F7-4554-A276-F80CE079A690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE62284C-FBE2-4A00-AE92-0A3478EB0EEF}
+	EndGlobalSection
+EndGlobal
